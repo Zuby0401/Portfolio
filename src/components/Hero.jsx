@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 import { SiLinkedin, SiGithub } from "react-icons/si";
 import cv from "../assets/Zubiya-CV.pdf";
 import { MdDownload } from "react-icons/md";
-import me from "../assets/zuby.jpeg";
+import me from "../assets/me.jpeg";
 // import { main } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
