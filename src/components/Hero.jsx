@@ -5,7 +5,7 @@ import { styles } from "../styles";
 import handWave from "../assets/waving.png";
 import { Link } from "react-router-dom";
 import { SiLinkedin, SiGithub } from "react-icons/si";
-import cv from "../assets/Zubiya-CV-1.pdf";
+import cv from "../assets/Zubiya-CV-1";
 import { MdDownload } from "react-icons/md";
 import me from "../assets/me.jpeg";
 // import { main } from "../assets";
